@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerrysHacktive
+- 👋 Hi, I’m @jerry
 - 👀 I’m interested in coding and building softwares, web and mobile applications
 - 🌱 I’m currently learning javascript, node js, dart, flutter and firebase 
 - 💞️ I’m looking to collaborate on building web and mobile application
